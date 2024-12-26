@@ -19,4 +19,3 @@ Future Improvements
 
 Nothing planned for now—it’s as classic as it gets!
 
-You can save this content as README.md and push it to your GitHub repository. Let me know if you’d like help with the Git commands to add it!
