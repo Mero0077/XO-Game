@@ -6,7 +6,9 @@ Welcome to the traditional XO game haha, Here’s what you can expect:
 
 Features
 	•	The game starts with Player X making the first move.
+ 
 	•	If Player X wins, the screen turns green 🟩.
+ 
 	•	If Player O wins, the screen turns blue 🟦.
 	•	That’s it—classic gameplay with a touch of color-coded victory celebrations!
 
