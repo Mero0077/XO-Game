@@ -19,7 +19,7 @@ How to Play?
 	2.	Compile and run the project (written in C++).
 	3.	Enjoy the timeless fun of the XO game!
 
-Future Improvements
 
-Nothing planned for now—it’s as classic as it gets!
+
+It’s as classic as it gets!
 
