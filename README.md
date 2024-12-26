@@ -3,7 +3,7 @@ XO Game 🎮
 
 Welcome to the traditional XO game haha, Here’s what you can expect:
 
-Features
+Features:
 
 	•	The game starts with Player X making the first move.
  
