@@ -13,7 +13,8 @@ Features:
  
 	•	That’s it—classic gameplay with a touch of color-coded victory celebrations!
 
-How to Play
+How to Play?
+
 	1.	Clone this repository to your local machine.
 	2.	Compile and run the project (written in C++).
 	3.	Enjoy the timeless fun of the XO game!
